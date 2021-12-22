@@ -20,7 +20,7 @@ echo "### Parameters ###"
 echo "Server: $HOST"
 echo "Port: $PORT"
 echo "User: $USER"
-echo "Database: $BD"
+echo "Database: $DB"
 echo "Output directory: $OUTPUT_DIR"
 echo "Delimiter: $DELIMITER"
 
